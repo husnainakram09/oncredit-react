@@ -1,0 +1,32 @@
+
+
+
+@media screen and (max-width:992px) {
+    html{
+        font-size: 56%;
+    }
+}
+@media screen and (max-width:768px) {
+    html{
+        font-size: 50%;
+    }
+    footer {
+        min-height: 100vh;
+      }
+}
+@media screen and (max-width:576px) {
+    html{
+        font-size: 44%;
+    }
+    footer {
+        min-height: 100vh;
+      }
+}
+@media screen and (max-width:340px) {
+    html{
+        font-size: 37%;
+    }
+    footer {
+        min-height: 100vh;
+      }
+}
